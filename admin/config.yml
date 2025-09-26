@@ -2,9 +2,6 @@ backend:
   name: github
   repo: PharenIT/CMS
   branch: main
-  base_url: https://chipper-crumble-c1894a.netlify.app/
-  auth_endpoint: api/auth
-
 
 
 media_folder: "images"
