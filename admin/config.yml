@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   repo: PharenIT/CMS
   branch: main
   base_url: https://chipper-crumble-c1894a.netlify.app/
