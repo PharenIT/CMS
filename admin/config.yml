@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: PharenIT/pharen-content
+  repo: PharenIT/CMS
   branch: main
 
 media_folder: "images"
